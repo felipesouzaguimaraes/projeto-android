@@ -32,7 +32,6 @@ O site foi estruturado seguindo boas práticas de identidade visual e experiênc
 | **Paleta de Cores Temática** | Estilização baseada em tons de verde oliva e gradientes modernos que remetem diretamente à identidade clássica do sistema operacional Android. |
 
 ### 📸 Prévia do Layout (Desktop)
-*(Para que a imagem abaixo apareça, lembre-se de salvar um print com este nome exato na sua pasta de imagens!)*
 <p align="center">
   <img width="1881" height="917" alt="print-layout" src="https://github.com/user-attachments/assets/1f47fba8-52d3-4cf7-a5f3-2fb676b016ca" />
 </p>
